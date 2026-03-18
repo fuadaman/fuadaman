@@ -95,7 +95,7 @@ Features **mAi-Kun**, an LLM-powered chatbot that acts as a virtual pharmacist i
 - 📍 Clinic & pharmacy geolocation via **Nominatim / OpenStreetMap**
 - 👥 Team project (4 members)
 
-**Tech:** `Rails 7.1` `Hotwire` `PostgreSQL` `RUBYLLM` `Devise` `Nominatim` `Rakuten API` `Bootstrap 5` `Docker`
+**Tech:** `Rails 7.1` `Hotwire` `PostgreSQL` `RubyLLM` `Devise` `Nominatim` `Rakuten API` `Bootstrap 5` `Docker`
 
 ---
 
