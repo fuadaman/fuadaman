@@ -18,7 +18,7 @@
 
 ## 🙋 About Me
 
-Junior **Ruby on Rails Developer** trained at the **AI Software Development Bootcamp at Le Wagon Tokyo**.
+**Ruby on Rails Developer** trained at the **AI Software Development Bootcamp at Le Wagon Tokyo**.
 I build full-stack web applications with a focus on clean, practical solutions — and I enjoy integrating AI capabilities to make those products smarter and more useful.
 
 Alongside my development journey, I work as an **Area Operations Supervisor** managing multi-site hotel operations across Tokyo. This dual background gives me a unique product-focused mindset: I understand both the technical and operational sides of building practical solutions.
@@ -59,7 +59,6 @@ Alongside my development journey, I work as an **Area Operations Supervisor** ma
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=heroku&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Mapbox](https://img.shields.io/badge/Mapbox-000000?style=flat-square&logo=mapbox&logoColor=white)
 ![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
