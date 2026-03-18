@@ -6,7 +6,7 @@
   <a href="https://www.linkedin.com/in/mahmud-md-fuad/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:fuad.aman2@outlook.com">
+  <a href="mailto:mahmud.fuad.tech@proton.me">
     <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email"/>
   </a>
   <a href="https://fuadaman.github.io/mahmud/" target="_blank">
@@ -139,7 +139,7 @@ Features **mAi-Kun**, an LLM-powered chatbot that acts as a virtual pharmacist i
 
 <p align="center">
   <i>Open to Junior Developer and AI Integration opportunities in Tokyo 🇯🇵 or remote 🌏</i><br><br>
-  <a href="mailto:fuad.aman2@outlook.com">📧 fuad.aman2@outlook.com</a> &nbsp;·&nbsp;
+  <a href="mailto:mahmud.fuad.tech@proton.me">📧 mahmud.fuad.tech@proton.me</a> &nbsp;·&nbsp;
   <a href="https://www.linkedin.com/in/mahmud-md-fuad/">LinkedIn</a> &nbsp;·&nbsp;
   <a href="https://fuadaman.github.io/mahmud/">Portfolio</a>
 </p>
