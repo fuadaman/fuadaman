@@ -122,7 +122,7 @@ Features **mAi-Kun**, an LLM-powered chatbot that acts as a virtual pharmacist i
 | Language | Level |
 |----------|-------|
 | 🇺🇸 English | Professional working proficiency |
-| 🇯🇵 Japanese | Conversational · 12+ years in Japan |
+| 🇯🇵 Japanese | Professional working proficiency · 12+ years in Japan |
 | 🇧🇩 Bangla | Native |
 | 🇮🇳 Hindi | Native |
 
