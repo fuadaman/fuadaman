@@ -146,8 +146,7 @@ Features **mAi-Kun**, an LLM-powered chatbot that acts as a virtual pharmacist i
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fuadaman&show_icons=true&count_private=true&include_all_commits=true&theme=dark&hide_border=true&bg_color=111827&title_color=10b981&icon_color=10b981&text_color=e5e7eb&cache_seconds=1800" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fuadaman&layout=compact&count_private=true&theme=dark&hide_border=true&bg_color=111827&title_color=10b981&text_color=e5e7eb&cache_seconds=1800" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=fuadaman&theme=dark&hide_border=true&background=111827&ring=10b981&fire=10b981&currStreakLabel=10b981&sideLabels=e5e7eb&dates=e5e7eb&currStreakNum=ffffff&sideNums=ffffff" alt="GitHub Streak Stats"/>
 </p>
 
 ---
