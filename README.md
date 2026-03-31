@@ -62,10 +62,25 @@ Alongside my development journey, I work as an **Area Operations Supervisor** ma
 ![Mapbox](https://img.shields.io/badge/Mapbox-000000?style=flat-square&logo=mapbox&logoColor=white)
 ![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 ---
 
 ## 🚀 Featured Projects
+
+### 🏥 MediTokyo *(In Development)*
+> Mobile-first clinic finder for Tokyo's international community
+
+A read-only Rails web app helping foreigners in Tokyo find government hospitals and insurance-accepting clinics. Designed with a multilingual audience in mind, making healthcare navigation accessible regardless of Japanese language level.
+
+**Highlights:**
+- 🗺️ Government hospital & insurance-accepting clinic search
+- 📱 Mobile-first design for on-the-go access
+- 🌐 Built for Tokyo's 11+ nationality international community
+
+**Tech:** `Rails 7.1` `PostgreSQL` `Bootstrap 5` `Devise` `Heroku`
+
+---
 
 ### 🛒 [Where's My Tofu?](https://www.wheresmytofu.me/)
 > Grocery price comparison app with an AI-powered store flyer scanner
@@ -131,8 +146,8 @@ Features **mAi-Kun**, an LLM-powered chatbot that acts as a virtual pharmacist i
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fuadaman&show_icons=true&theme=dark&hide_border=true&bg_color=111827&title_color=10b981&icon_color=10b981&text_color=e5e7eb" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fuadaman&layout=compact&theme=dark&hide_border=true&bg_color=111827&title_color=10b981&text_color=e5e7eb" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=fuadaman&show_icons=true&count_private=true&include_all_commits=true&theme=dark&hide_border=true&bg_color=111827&title_color=10b981&icon_color=10b981&text_color=e5e7eb&cache_seconds=1800" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fuadaman&layout=compact&count_private=true&theme=dark&hide_border=true&bg_color=111827&title_color=10b981&text_color=e5e7eb&cache_seconds=1800" height="165"/>
 </p>
 
 ---
