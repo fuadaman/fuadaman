@@ -58,7 +58,9 @@ Alongside my development journey, I work as an **Area Operations Supervisor** ma
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white)
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=heroku&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
 ![Mapbox](https://img.shields.io/badge/Mapbox-000000?style=flat-square&logo=mapbox&logoColor=white)
 ![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
@@ -68,17 +70,18 @@ Alongside my development journey, I work as an **Area Operations Supervisor** ma
 
 ## 🚀 Featured Projects
 
-### 🏥 MediTokyo *(In Development)*
-> Mobile-first clinic finder for Tokyo's international community
+### 🏥 [MediTokyo](https://www.meditokyo.net) — *Live*
+> Mobile-first bilingual hospital finder for Tokyo's international community
 
-A read-only Rails web app helping foreigners in Tokyo find government hospitals and insurance-accepting clinics. Designed with a multilingual audience in mind, making healthcare navigation accessible regardless of Japanese language level.
+Tokyo has approximately 721,200 foreign residents. MediTokyo helps them find English-speaking hospitals and navigate Japan's healthcare system — fast, in their language, on any device.
 
 **Highlights:**
-- 🗺️ Government hospital & insurance-accepting clinic search
-- 📱 Mobile-first design for on-the-go access
-- 🌐 Built for Tokyo's 11+ nationality international community
+- 🗺️ 318 hospitals across all 23 Tokyo wards + 16 surrounding cities
+- 🔍 Search and filter by language, ward, city, and hospital type
+- 🆘 Emergency info included
+- 📱 Mobile-first design
 
-**Tech:** `Rails 7.1` `PostgreSQL` `Bootstrap 5` `Devise` `Heroku`
+**Tech:** `Rails 7.1` `PostgreSQL` `Hotwire` `Dart Sass` `Railway` `Cloudflare`
 
 ---
 
@@ -118,6 +121,7 @@ Features **mAi-Kun**, an LLM-powered chatbot that acts as a virtual pharmacist i
 
 | Role | Company | Period |
 |------|---------|--------|
+| Founder & Developer | MediTokyo | 05/2026 – Present |
 | Area Operations Supervisor | 株式会社オーエムサービス (OM Service) · Tokyo | 07/2021 – Present |
 | Business Development Manager | 株式会社エマノン ソリューションズ (Emanon Solutions K.K.) · Tokyo | 03/2018 – 06/2021 |
 
